@@ -1,0 +1,14 @@
+com\mym\flume\sink\base\bo\CRUDMethodType.class
+com\mym\flume\sink\base\bo\DefaultProcessConfig.class
+com\mym\flume\sink\kernel\BaseAdminMysqlSink.class
+com\mym\flume\sink\base\CustomerProcessorConfigRegister.class
+com\mym\flume\sink\base\DefaultProcessConfigRegister.class
+com\mym\flume\sink\FlumeTest.class
+com\mym\flume\sink\base\DpcpConnectionPoolManager.class
+com\mym\flume\sink\base\ProcessorPoolManager.class
+com\mym\flume\sink\processor\base\AbstractEventProcessor.class
+com\mym\flume\sink\base\bo\Constant.class
+com\mym\flume\sink\base\ProcessorConfigValidate.class
+com\mym\flume\sink\processor\DefaultUpdateEventProcessor.class
+com\mym\flume\sink\processor\DefaultInsertEventProcessor.class
+com\mym\flume\sink\kernel\BaseAdminMysqlSink$1.class
